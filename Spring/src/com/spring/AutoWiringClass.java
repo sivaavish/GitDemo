@@ -35,6 +35,7 @@ public class AutoWiringClass {
 		System.out.println(students.getName());
 		System.out.println(students.getDepartment());
 		System.out.println(students.getMarks());
+		System.out.println("AutoWiring Class");
 	}
 
 }
